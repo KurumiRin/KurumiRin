@@ -105,20 +105,17 @@
                 </picture>
             </div>
             <h2 align="center"> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-            <div align="center">
-                <!-- <img src="./images/KXx0cCx.gif" align="right" width="373.5px" height="208.5px"> -->
-            </div>
             <br>
             <p align="center">
             </p>
-            <!-- <p align="center">
+            <p align="center">
                 <a href="https://twitter.com/KurumiRin" target="_blank">
                     <img
-                        src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-                <a href="https://discord.me/cozythighs" target="_blank">
+                        src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" /></a>
+                <a href="https://discord.com/channels/439018953491087360/864084305261363210" target="_blank">
                     <img
-                        src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-            </p> -->
+                        src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" /></a>
+            </p>
         </div>
         <br>
         <div>
