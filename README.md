@@ -3,10 +3,9 @@
         <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
         <br>
         <div align="center">
-                <img src="./images/date-a-live-kurumi.gif"
-                    alt="kurumirin" width="60%"/>
-                <img src="" />
-            </div>
+            <img src="./images/date-a-live-kurumi.gif" alt="kurumirin" width="60%" />
+            <img src="" />
+        </div>
         <div align="center">
             <br>
             <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
@@ -36,10 +35,13 @@
                 <b>Working @:</b> a undefined company
             </li>
         </div>
-        <br />
-        <br />
-        <br />
+                    <br>
+            <br>
+            <br>
+                        <br>
+            <br>
         <div>
+            <br>
             <h2 align="center"> ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
             <br>
             <p>
