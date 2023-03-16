@@ -3,8 +3,7 @@
         <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
         <br>
         <div align="center">
-            <img src="./images/date-a-live-kurumi.gif" alt="kurumirin" width="60%" />
-            <img src="" />
+            <img src="./images/date-a-live-kurumi.gif" alt="kurumirin" width="35%" />
         </div>
         <div align="center">
             <br>
@@ -19,6 +18,8 @@
             <div align="center">
                 <img src="./images/kitagawa-kitagawa-marin.gif" align="right" width="30%">
             </div>
+            <br>
+            <br>
             <li>
                 <b>Name:</b> KurumiRin
             </li>
@@ -35,10 +36,8 @@
                 <b>Working @:</b> a undefined company
             </li>
         </div>
-                    <br>
             <br>
             <br>
-                        <br>
             <br>
         <div>
             <br>
