@@ -105,6 +105,7 @@
                     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kurumirin&theme=jolly&area=true"
                         width="98%" />
                 </picture>
+                <!-- ![snake](https://raw.githubusercontent.com/alexzhang1030/alexzhang1030/main/assets/github-contribution-grid-snake.gif) -->
             </div>
             <h2 align="center"> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
             <br>
