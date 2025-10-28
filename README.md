@@ -16,7 +16,7 @@
         <div>
             <h2 align="center"> 🌸 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🌸 </h2>
             <br>
-            <table align="center">
+            <table align="center" border="0" style="border: none;">
                 <tr>
                     <td width="60%" valign="top">
                         <ul>
@@ -33,7 +33,7 @@
                             </li>
                             <br>
                             <li>
-                                <b>🎯 Hobby:</b> Web Development
+                                <b>🎯 Hobby:</b> Frontend Development
                             </li>
                         </ul>
                     </td>
@@ -94,11 +94,11 @@
             </p>
             <br>
             <div align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=kurumirin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
-                    width="49%" />
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurumirin&theme=radical" 
+                <!-- <img src="https://github-readme-stats.vercel.app/api?username=kurumirin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
+                    width="49%" /> -->
+                <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurumirin&theme=radical" 
                     width="98%" />
-                <br>
+                <br> -->
                 <picture>
                     <source media="(prefers-color-scheme: dark)"
                         srcset="https://github-readme-activity-graph.vercel.app/graph?username=kurumirin&bg_color=1a1d26&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true"
