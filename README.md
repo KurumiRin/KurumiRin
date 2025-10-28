@@ -16,32 +16,28 @@
         <div>
             <h2 align="center"> 🌸 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🌸 </h2>
             <br>
-            <table align="center" border="0" style="border: none;">
-                <tr>
-                    <td width="60%" valign="top">
-                        <ul>
-                            <li>
-                                <b>👤 Name:</b> Rin
-                            </li>
-                            <br>
-                            <li>
-                                <b>💖 Loves:</b> Anime, Gunplay Games
-                            </li>
-                            <br>
-                            <li>
-                                <b>🌏 Location:</b> China / UAE
-                            </li>
-                            <br>
-                            <li>
-                                <b>🎯 Hobby:</b> Frontend Development
-                            </li>
-                        </ul>
-                    </td>
-                    <td width="24%" valign="top">
-                        <img src="./images/kitagawa-kitagawa-marin.gif" width="100%">
-                    </td>
-                </tr>
-            </table>
+            <div align="center">
+                <img src="./images/kitagawa-kitagawa-marin.gif" align="right" width="140px">
+                <div align="left">
+                    <ul>
+                        <li>
+                            <b>𝓝𝓪𝓶𝓮</b> ➜ <i>Rin</i>
+                        </li>
+                        <br>
+                        <li>
+                            <b>𝓛𝓸𝓿𝓮𝓼</b> ➜ <i>Anime, Gunplay Games</i>
+                        </li>
+                        <br>
+                        <li>
+                            <b>𝓛𝓸𝓬𝓪𝓽𝓲𝓸𝓷</b> ➜ <i>China / UAE</i>
+                        </li>
+                        <br>
+                        <li>
+                            <b>𝓗𝓸𝓫𝓫𝔂</b> ➜ <i>Frontend Development</i>
+                        </li>
+                    </ul>
+                </div>
+            </div>
             <br>
         </div>
         <div>
