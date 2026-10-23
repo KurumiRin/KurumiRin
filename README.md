@@ -1,132 +1,66 @@
-<body>
-    <center>
-        <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-        <br>
-        <div align="center">
-            <img src="./images/date-a-live-kurumi.gif" alt="kurumirin" width="35%" />
-        </div>
-        <div align="center">
-            <br>
-            <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
-            <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
-            <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
-            <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
-        </div>
-        <div align="center"></div>
-        <div>
-            <h2 align="center"> 🌸 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🌸 </h2>
-            <br>
-            <div align="center">
-                <img src="./images/kitagawa-kitagawa-marin.gif" align="right" width="140px">
-                <div align="left">
-                    <ul>
-                        <li>
-                            <b>𝓝𝓪𝓶𝓮</b> ➜ <i>Rin</i>
-                        </li>
-                        <br>
-                        <li>
-                            <b>𝓛𝓸𝓿𝓮𝓼</b> ➜ <i>Anime, Gunplay Games</i>
-                        </li>
-                        <br>
-                        <li>
-                            <b>𝓛𝓸𝓬𝓪𝓽𝓲𝓸𝓷</b> ➜ <i>China / UAE</i>
-                        </li>
-                        <br>
-                        <li>
-                            <b>𝓗𝓸𝓫𝓫𝔂</b> ➜ <i>Frontend Development</i>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <br>
-        </div>
-        <div>
-            <h2 align="center"> ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
-            <br>
-            <p>
-        </div>
-        <div>
-            <br>
-            <p align="center">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ruby&color=CC342D&logo=Ruby&logoColor=FFFFFF&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=UnoCSS&color=333333&logo=UnoCSS&logoColor=FFFFFF&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=FF5D01&logo=Astro&logoColor=FFFFFF&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=tRPC&color=2596BE&logo=tRPC&logoColor=FFFFFF&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label="
-                    alt="">
-                <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label="
-                    alt="">
-                <br><br>
-            </p>
-            <br>
-            <div align="center">
-                <!-- <img src="https://github-readme-stats.vercel.app/api?username=kurumirin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
-                    width="49%" /> -->
-                <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurumirin&theme=radical" 
-                    width="98%" />
-                <br> -->
-                <picture>
-                    <source media="(prefers-color-scheme: dark)"
-                        srcset="https://github-readme-activity-graph.vercel.app/graph?username=kurumirin&bg_color=1a1d26&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true"
-                        width="98%">
-                    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kurumirin&theme=github-light&area=true&hide_border=true"
-                        width="98%" />
-                </picture>
-                <!-- ![snake](https://raw.githubusercontent.com/alexzhang1030/alexzhang1030/main/assets/github-contribution-grid-snake.gif) -->
-            </div>
-            <h2 align="center"> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-            <br>
-            <p align="center">
-            </p>
-            <p align="center">
-                <a href="https://twitter.com/KurumiRin" target="_blank">
-                    <img
-                        src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" /></a>
-                <a href="https://discord.com/channels/439018953491087360/864084305261363210" target="_blank">
-                    <img
-                        src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" /></a>
-            </p>
-        </div>
-        <br>
-        <div>
-            <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-            <div align="center">
-                <!-- <img src="https://i.imgur.com/tzYKRfd.gif"> -->
-                <img src="./images/KXx0cCx.gif" width="373.5px" height="208.5px">
-            </div>
-            <hr>
-        </div>
-        </div>
-    </center>
+<h1 align="center">💖 Hi, I'm Rin</h1>
 
-</body>
+<p align="center">Frontend development · Anime · FPS games</p>
+
+<p align="center">
+  <img src="./images/date-a-live-kurumi.gif" alt="Kurumi Tokisaki animation" width="280" />
+</p>
+
+## 🌸 About me
+
+<img src="./images/kitagawa-kitagawa-marin.gif" alt="Marin Kitagawa animation" align="right" width="120" />
+
+- **Name:** Rin
+- **Location:** China / UAE
+- **Interests:** Anime and FPS games
+- **Hobby:** Frontend development
+
+<br clear="right" />
+
+## 🛠️ Tech stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=HTML5&amp;color=E34F26&amp;logo=HTML5&amp;logoColor=FFFFFF&amp;label=" alt="HTML5" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=CSS3&amp;color=1572B6&amp;logoColor=FFFFFF&amp;label=" alt="CSS3" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=JavaScript&amp;color=222222&amp;logo=JavaScript&amp;logoColor=F7DF1E&amp;label=" alt="JavaScript" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=TypeScript&amp;color=3178C6&amp;logo=TypeScript&amp;logoColor=FFFFFF&amp;label=" alt="TypeScript" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Go&amp;color=00ADD8&amp;logo=Go&amp;logoColor=FFFFFF&amp;label=" alt="Go" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Ruby&amp;color=CC342D&amp;logo=Ruby&amp;logoColor=FFFFFF&amp;label=" alt="Ruby" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Rust&amp;color=000000&amp;logo=Rust&amp;logoColor=FFFFFF&amp;label=" alt="Rust" />
+</p>
+
+**UI & frameworks**
+
+<p>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Vue.js&amp;color=222222&amp;logo=Vue.js&amp;logoColor=4FC08D&amp;label=" alt="Vue.js" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=React&amp;color=222222&amp;logo=React&amp;logoColor=61DAFB&amp;label=" alt="React" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Flutter&amp;color=02569B&amp;logo=Flutter&amp;logoColor=FFFFFF&amp;label=" alt="Flutter" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Astro&amp;color=FF5D01&amp;logo=Astro&amp;logoColor=FFFFFF&amp;label=" alt="Astro" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Tailwind+CSS&amp;color=222222&amp;logo=Tailwind+CSS&amp;logoColor=06B6D4&amp;label=" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=UnoCSS&amp;color=333333&amp;logo=UnoCSS&amp;logoColor=FFFFFF&amp;label=" alt="UnoCSS" />
+</p>
+
+**Backend & tools**
+
+<p>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Node.js&amp;color=339933&amp;logo=Node.js&amp;logoColor=FFFFFF&amp;label=" alt="Node.js" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=tRPC&amp;color=2596BE&amp;logo=tRPC&amp;logoColor=FFFFFF&amp;label=" alt="tRPC" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=PostgreSQL&amp;color=4169E1&amp;logo=PostgreSQL&amp;logoColor=FFFFFF&amp;label=" alt="PostgreSQL" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Docker&amp;color=2496ED&amp;logo=Docker&amp;logoColor=FFFFFF&amp;label=" alt="Docker" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Vite&amp;color=646CFF&amp;logo=Vite&amp;logoColor=FFFFFF&amp;label=" alt="Vite" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Webpack&amp;color=222222&amp;logo=Webpack&amp;logoColor=8DD6F9&amp;label=" alt="Webpack" />
+</p>
+
+## 📝 Find me
+
+[X / Twitter · @KurumiRin](https://twitter.com/KurumiRin)
+
+---
+
+<p align="center"><strong>💖 Thanks for stopping by!</strong></p>
+
+<p align="center">
+  <img src="./images/KXx0cCx.gif" alt="A farewell animation" width="320" />
+</p>
