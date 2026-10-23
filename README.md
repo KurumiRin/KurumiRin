@@ -9,7 +9,7 @@
 <h3 align="center"><img src="./images/profile/about.svg" alt="About me" width="300" /></h3>
 
 <p align="center">
-  <img src="./images/profile/about-info.svg" alt="Name: Rin; Location: China / UAE; Loves: Anime, MyGO!!!!! / Ave Mujica, FPS; Hobby: Frontend development" width="640" />
+  <img src="./images/profile/about-info.svg?v=2" alt="Name: Rin; Location: China / UAE; Loves: Anime, MyGO!!!!! / Ave Mujica, FPS; Hobby: Frontend development" width="640" />
 </p>
 
 <h3 align="center"><img src="./images/profile/tech.svg" alt="Tech stack, with Sakiko score and surprised stickers" width="340" /></h3>
