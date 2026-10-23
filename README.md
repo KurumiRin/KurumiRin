@@ -1,66 +1,50 @@
-<h1 align="center">💖 Hi, I'm Rin</h1>
+<h1 align="center"><img src="./images/profile/welcome.svg" alt="Welcome to Rin’s World, with symmetrical Sakiko decorations" width="700" /></h1>
 
-<p align="center">Frontend development · Anime · FPS games</p>
-
-<p align="center">
-  <img src="./images/date-a-live-kurumi.gif" alt="Kurumi Tokisaki animation" width="280" />
-</p>
-
-## 🌸 About me
-
-<img src="./images/kitagawa-kitagawa-marin.gif" alt="Marin Kitagawa animation" align="right" width="120" />
-
-- **Name:** Rin
-- **Location:** China / UAE
-- **Interests:** Anime and FPS games
-- **Hobby:** Frontend development
-
-<br clear="right" />
-
-## 🛠️ Tech stack
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=HTML5&amp;color=E34F26&amp;logo=HTML5&amp;logoColor=FFFFFF&amp;label=" alt="HTML5" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=CSS3&amp;color=1572B6&amp;logoColor=FFFFFF&amp;label=" alt="CSS3" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=JavaScript&amp;color=222222&amp;logo=JavaScript&amp;logoColor=F7DF1E&amp;label=" alt="JavaScript" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=TypeScript&amp;color=3178C6&amp;logo=TypeScript&amp;logoColor=FFFFFF&amp;label=" alt="TypeScript" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Go&amp;color=00ADD8&amp;logo=Go&amp;logoColor=FFFFFF&amp;label=" alt="Go" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Ruby&amp;color=CC342D&amp;logo=Ruby&amp;logoColor=FFFFFF&amp;label=" alt="Ruby" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Rust&amp;color=000000&amp;logo=Rust&amp;logoColor=FFFFFF&amp;label=" alt="Rust" />
-</p>
-
-**UI & frameworks**
-
-<p>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Vue.js&amp;color=222222&amp;logo=Vue.js&amp;logoColor=4FC08D&amp;label=" alt="Vue.js" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=React&amp;color=222222&amp;logo=React&amp;logoColor=61DAFB&amp;label=" alt="React" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Flutter&amp;color=02569B&amp;logo=Flutter&amp;logoColor=FFFFFF&amp;label=" alt="Flutter" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Astro&amp;color=FF5D01&amp;logo=Astro&amp;logoColor=FFFFFF&amp;label=" alt="Astro" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Tailwind+CSS&amp;color=222222&amp;logo=Tailwind+CSS&amp;logoColor=06B6D4&amp;label=" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=UnoCSS&amp;color=333333&amp;logo=UnoCSS&amp;logoColor=FFFFFF&amp;label=" alt="UnoCSS" />
-</p>
-
-**Backend & tools**
-
-<p>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Node.js&amp;color=339933&amp;logo=Node.js&amp;logoColor=FFFFFF&amp;label=" alt="Node.js" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=tRPC&amp;color=2596BE&amp;logo=tRPC&amp;logoColor=FFFFFF&amp;label=" alt="tRPC" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=PostgreSQL&amp;color=4169E1&amp;logo=PostgreSQL&amp;logoColor=FFFFFF&amp;label=" alt="PostgreSQL" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Docker&amp;color=2496ED&amp;logo=Docker&amp;logoColor=FFFFFF&amp;label=" alt="Docker" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Vite&amp;color=646CFF&amp;logo=Vite&amp;logoColor=FFFFFF&amp;label=" alt="Vite" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Webpack&amp;color=222222&amp;logo=Webpack&amp;logoColor=8DD6F9&amp;label=" alt="Webpack" />
-</p>
-
-## 📝 Find me
-
-[X / Twitter · @KurumiRin](https://twitter.com/KurumiRin)
-
----
-
-<p align="center"><strong>💖 Thanks for stopping by!</strong></p>
+<p align="center"><img src="./images/profile/tagline.svg" alt="Frontend · Anime · FPS" width="400" /></p>
 
 <p align="center">
-  <img src="./images/KXx0cCx.gif" alt="A farewell animation" width="320" />
+  <img src="./images/sakiko-smile.gif" alt="Sakiko Togawa smiling — BanG Dream! It’s MyGO!!!!!" width="400" />
+</p>
+
+<h3 align="center"><img src="./images/profile/about.svg" alt="About me" width="300" /></h3>
+
+<p align="center">
+  <img src="./images/profile/about-info.svg" alt="Name: Rin; Location: China / UAE; Loves: Anime, MyGO!!!!! / Ave Mujica, FPS; Hobby: Frontend development" width="640" />
+</p>
+
+<h3 align="center"><img src="./images/profile/tech.svg" alt="Tech stack, with Sakiko score and surprised stickers" width="340" /></h3>
+
+<p align="center">
+  <img src="./images/profile/badge-typescript.svg" alt="TypeScript" title="TypeScript" width="99" />
+  <img src="./images/profile/badge-vue-js.svg" alt="Vue.js" title="Vue.js" width="70" />
+  <img src="./images/profile/badge-react.svg" alt="React" title="React" width="67" />
+  <img src="./images/profile/badge-flutter.svg" alt="Flutter" title="Flutter" width="79" />
+  <img src="./images/profile/badge-astro.svg" alt="Astro" title="Astro" width="69" />
+  <img src="./images/profile/badge-tailwind-css.svg" alt="Tailwind CSS" title="Tailwind CSS" width="112" />
+  <br />
+  <img src="./images/profile/badge-node-js.svg" alt="Node.js" title="Node.js" width="79" />
+  <img src="./images/profile/badge-trpc.svg" alt="tRPC" title="tRPC" width="61" />
+  <img src="./images/profile/badge-postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="102" />
+  <img src="./images/profile/badge-docker.svg" alt="Docker" title="Docker" width="76" />
+  <img src="./images/profile/badge-go.svg" alt="Go" title="Go" width="49" />
+  <img src="./images/profile/badge-rust.svg" alt="Rust" title="Rust" width="61" />
+</p>
+
+<h3 align="center"><img src="./images/profile/ai-heading.svg" alt="AI Companions" width="340" /></h3>
+
+<p align="center"><sub>AI-assisted development</sub></p>
+
+<p align="center">
+  <a href="https://claude.ai/"><img src="./images/profile/ai-claude.svg" alt="Claude — code discussion, refactoring and documentation" width="220" /></a>
+  <a href="https://chatgpt.com/"><img src="./images/profile/ai-gpt.svg" alt="GPT — ideas, prototyping, debugging and learning" width="220" /></a>
+</p>
+
+<h3 align="center"><img src="./images/profile/contact.svg" alt="Contact me" width="300" /></h3>
+
+<p align="center"><a href="https://twitter.com/KurumiRin" title="X / Twitter · @KurumiRin"><img src="./images/profile/social-x.svg" alt="X / Twitter · @KurumiRin" width="48" /></a></p>
+
+<p align="center"><img src="./images/profile/thanks.svg" alt="Thanks for stopping by!" width="360" /></p>
+
+<p align="center">
+  <img src="./images/sakiko-piano.gif" alt="Sakiko playing the keyboard — BanG Dream! Ave Mujica" width="300" />
 </p>
